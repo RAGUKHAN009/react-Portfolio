@@ -33,7 +33,7 @@ function Home() {
           </a>
 
           <a
-            href="https://www.behance.net/alyhassan4"
+            href="behance_account-#"
             className="home__social-link"
             target="_blank"
             rel="noreferrer"
@@ -42,7 +42,7 @@ function Home() {
           </a>
 
           <a
-            href="https://dribbble.com/aly-hassan"
+            href="dribble_accout_#"
             className="home__social-link"
             target="_blank"
             rel="noreferrer"
