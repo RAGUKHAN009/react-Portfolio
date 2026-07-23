@@ -1,4 +1,5 @@
 import profileImg from '../assets/img/profile.png'
+import cvFile from "./../assets/cv/CV.pdf";
 
 function Home() {
   return (
@@ -10,7 +11,7 @@ function Home() {
           <h3 className="home__education">FrontEnd Web-developer</h3>
 
           <div className="home__buttons">
-            <a download="" href="/CV.docx" className="button button--ghost">
+            <a download="Ragu-Khan-CV.pdf" href={cvFile} className="button button--ghost">
               Download CV
             </a>
             <a href="#about" className="button">About me</a>
