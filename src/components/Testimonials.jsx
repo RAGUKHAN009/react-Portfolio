@@ -8,20 +8,22 @@ import testimonial3 from '../assets/img/testimonial3.png'
 const testimonials = [
   {
     img: testimonial1,
-    name: 'Afua B.',
-    description: `Aliyan is a master at UI. He is very personable,
-      very communicative and skilled at taking initiative to enhance what you have asked of him.
-      Additionally Aliyan completed the work in a fraction of the time AND at a fraction of the cost
-      that other proposals offered.
-      We worked very collaboratively to improve the project and he is happy to incorporate your
-      feedback and make changes.
-      If you have any UI design work, do not hesitate to entrust it with Ali.
-      I give Ali my highest recommendation. Don't even think twice, just hire him.`,
+    name: 'Afua.',
+    description: `Aliyan is a master at software development. He is 
+    very personable, highly communicative, and skilled at taking the 
+    initiative to enhance your codebase and feature set beyond the 
+    original spec. Additionally, Aliyan completed the work in a 
+    fraction of the time and at a fraction of the cost that other 
+    proposals offered.
+    We worked very collaboratively to refine the project, and he is 
+    always happy to incorporate feedback, debug, and make adjustments. 
+    If you have any web or software development work, do not hesitate 
+    to entrust it with Aliyan.`,
   },
   {
     img: testimonial2,
-    name: 'Femi A.',
-    description: `Aliyan is a great UI/UX designer - very good at what he does.
+    name: 'Femi.',
+    description: `Aliyan is a great Web-Developer - very good at what he does.
       He literally brought my idea to live using his skill set.
       What I love about him is the communication.
       He was available to answer all my questions,
@@ -30,11 +32,12 @@ const testimonials = [
   },
   {
     img: testimonial3,
-    name: 'Sam O.',
+    name: 'Sam.',
     description: `It was an absolute pleasure working with Aliyan.
-      He is very quick, with great understanding of project tasks and a fantastic quality of work.
-      We would highly recommend Aliyan's services and we'll definitely be working with him again.
-      Thanks for all your work!`,
+      He is very quick, with great understanding of project tasks 
+      and a fantastic quality of work. We would highly recommend 
+      Aliyan's services and we'll definitely be working with him 
+      again. Thanks for all your work!`,
   },
 ]
 

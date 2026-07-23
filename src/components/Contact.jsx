@@ -59,7 +59,7 @@ function Contact() {
               <h3 className="contact__card-title">Linkedin</h3>
               <span className="contact__card-data">Aliyan Airf</span>
               <a
-                href="https://www.linkedin.com/in/ragu-khan-326335305/"
+                href="www.linkedin.com/in/aliyan-arif-arif-sulaiman-783b0b423"
                 target="_blank"
                 rel="noreferrer"
                 className="contact__button"

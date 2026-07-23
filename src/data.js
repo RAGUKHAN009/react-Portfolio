@@ -23,7 +23,7 @@ export const softwareSkills = [
 
 export const serviceSkills = [
   [
-    { icon: 'fa-solid fa-terminal', name: 'Devops', level: 'Expert' },
+    { icon: 'fa-solid fa-terminal', name: 'Code', level: 'Expert' },
     { icon: 'fa-solid fa-mobile', name: 'Responsive', level: 'Expert' },
     { icon: 'fa-solid fa-bomb', name: 'Errors', level: 'Expert' },
   ],
@@ -34,13 +34,6 @@ export const serviceSkills = [
   ],
 ]
 
-const serviceListDefault = [
-  'I design the user interface.',
-  'Design to WebSite.',
-  'I create user friendly interactions.',
-  'I position your company brand.',
-  'I create website dynamically with all the responsive dimensions.',
-]
 
 export const services = [
   {
@@ -48,21 +41,30 @@ export const services = [
     modalTitle: 'Web Development',
     items: [
       'I develop the user interface.',
-      'develop to WebSite.',
+      'I develop to WebSite.',
       'I create user friendly interactions.',
-      'I position your company brand.',
-      'I create website dynamically with all the responsive dimensions.',
+      'I can convert any design to Code',
     ],
   },
   {
-    title: ['Errors', 'Debugging'],
-    modalTitle: 'Visual Designer',
-    items: serviceListDefault,
+    title: ['Errors', 'Handling'],
+    modalTitle: 'Error Handling',
+    items: [
+      'I fix the errors in your project',
+      'I develop to WebSite.',
+      'I create user friendly interactions.',
+      'I position your company brand.',
+    ],
   },
   {
     title: ['Responsive', 'Dimentions'],
-    modalTitle: 'UIUX Designer',
-    items: serviceListDefault,
+    modalTitle: 'Moblie Views',
+    items: [
+      'I develop the user-friendly interfaces.',
+      'I develop to WebSites and WebApplications',
+      'I create user friendly interactions.',
+      'I can convert design to any screen',
+    ],
   },
 ]
 
@@ -71,51 +73,50 @@ export const works = [
     img: work1,
     title: 'Gaming Dashboard Design',
     category: 'web',
-    link: 'https://www.figma.com/file/omSNTUShLFmRxAu19UwyvJ/Gamming-Dashboard?node-id=0%3A1',
+    link: 'GAMING_DASHBORD#',
   },
   {
     img: work7,
     title: 'E-commerce App Design',
     category: 'mobile',
-    link: 'https://www.figma.com/file/ROoXVdOfF6RTEuCLljFTKh/E-commerce-Application?node-id=28%3A9',
+    link: 'E_commerce_APP#',
   },
   {
     img: work4,
     title: 'Travel Landing Page Design',
     category: 'web',
-    link: 'https://www.figma.com/file/hTUtDn6KWFXgDmtmOV9spQ/Landing-Page-Travel?node-id=0%3A1',
+    link: 'TRACEL_LANDINGPAGE#',
   },
   {
     img: work2,
     title: 'Dating App Design',
     category: 'mobile',
-    link: 'https://www.figma.com/file/0J6XrW55ooQ4k4N4K31KBo/Dating-app?node-id=607%3A690',
+    link: 'DATIN_APP_#',
   },
   {
     img: work5,
     title: 'Perfume Web Landing page Design',
     category: 'web',
-    link: 'https://www.figma.com/file/B4deatCN9YUPJztFvfmyr6/Perfume-Website-Design?node-id=0%3A1',
+    link: 'PERFUMESS_WEB_PAGE#',
   },
   {
     img: work8,
     title: 'Fitness App Design',
     category: 'mobile',
-    link: 'https://www.figma.com/file/IB6XqzjFgDikpF2YO3aflD/Fitness-app?node-id=904%3A3049',
+    link: 'FITNESS_APP_#',
   },
   {
     img: work6,
     title: 'Real-Estate Web Landing Page Design',
     category: 'web',
-    link: 'https://www.figma.com/file/Jg4bpjVcj3gIh32tORPr6H/Real-Estate-Web-Landing-Page-Design?node-id=0%3A1',
+    link: 'REAL_ESTATS_WEB_#',
   },
   {
     img: work9,
     title: 'Doctor App Design',
     category: 'mobile',
-    link: 'https://www.figma.com/file/XzXAOry0megLTXdjTN4L3M/Doctor-App?node-id=250%3A9',
+    link: 'DOCTOR_APP_DESIGN_#',
   },
 ]
 
-// work3 kept available in assets in case you want to add a 9th project card
 export { work3 }
