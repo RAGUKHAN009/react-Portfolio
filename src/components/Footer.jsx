@@ -18,7 +18,7 @@ function Footer() {
 
         <ul className="footer__social">
           <a
-            href="https://www.linkedin.com/in/ali-hassan-339a861a7/"
+            href="www.linkedin.com/in/aliyan-arif-arif-sulaiman-783b0b423"
             target="_blank"
             rel="noreferrer"
             className="footer__social-link"
@@ -27,7 +27,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://www.upwork.com/freelancers/~017d016ee83e4fc696"
+            href="UPWORK_PROFILE_ALIYAN_#"
             target="_blank"
             rel="noreferrer"
             className="footer__social-link"
@@ -36,7 +36,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://www.instagram.com/ali_hassan_amor/"
+            href="https://www.instagram.com/ragu_khan_009/"
             target="_blank"
             rel="noreferrer"
             className="footer__social-link"
